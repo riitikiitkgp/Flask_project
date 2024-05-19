@@ -1,9 +1,9 @@
 # Python Flask REST API
 
-# Overview
+# Overview :
 This project is a Python Flask REST API for managing user data. It provides endpoints for creating, reading, updating, and deleting user records stored in a PostgreSQL database.
 
-# Features
+# Features :
 List users
 
 Create a new user
@@ -31,6 +31,8 @@ GET /api/users/{id}: Retrieves details of a specific user.
 PUT /api/users/{id}: Updates details of a specific user.
 
 DELETE /api/users/{id}: Deletes a specific user.
+
+# Extras : 
 
 How long did it take you to complete this assignment?
 -  6 hours
